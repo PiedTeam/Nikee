@@ -1,6 +1,6 @@
 packages:
 - ./@nikee/*
-- ./packages/*
+- ./ui-lib
 
 catalog:
   react: "^18.3.1"
