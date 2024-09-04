@@ -27,5 +27,8 @@
     {
       "path": "@nikee/nike-store"
     },
+    {
+      "path": "ui-lib"
+    }
   ]
 }
