@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "nike-bo": "pnpm --filter @nikee/nike-bo dev",
-    "nike-store": "pnpm --filter @nikee/nike-store dev"
+    "nike-store": "pnpm --filter @nikee/nike-store dev",
+    "lint": "eslint . --fix"
   },
   "dependencies": {
     "react": "^18.3.1",
